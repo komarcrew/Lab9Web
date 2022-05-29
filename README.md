@@ -14,4 +14,6 @@ Kelas : TI.20.D.1 <p>
   ![image](https://user-images.githubusercontent.com/101499377/170850835-ed9f9634-faf4-4454-b770-66d9368efd97.png)<p>
   Buat file baru dengan nama <b> about.php </b><p>
   ![image](https://user-images.githubusercontent.com/101499377/170850877-0c292015-f5a5-44c9-bec8-ae998e417865.png)<p>
+  lalu buka link : http://localhost/lab9_php_modular/home.php untuk melihat hasilnya.<p>
+    ![image](https://user-images.githubusercontent.com/101499377/170858960-f6bb6f4b-ed82-4549-8151-e0b16a7b9b79.png)<p>
 
