@@ -1,7 +1,6 @@
 <footer>
-	<p>&copy; 2021, Informatika, Universitas Pelita Bangsa</p>
-</footer>
-</div>
+            <p>&copy; 2022, Komarudin, Universitas Pelita Bangsa</p>
+        </footer>
+    </div>
 </body>
 </html>
-
