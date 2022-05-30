@@ -19,7 +19,6 @@ Kelas : TI.20.D.1 <p>
 
 ## Pertanyaan dan Tugas.<p>
 ### Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.<p>
-Buat folder baru dengan nama <b> Modular </b> didalam folder <b>lab9_php_modular </b><p>
 ### Home.<p>
   Link Akses : http://localhost/lab9_php_modular/modular/home.php <p>
   ![image](https://user-images.githubusercontent.com/101499377/171034159-b3ff7960-6df6-4baa-a4e5-40f9f7c565ba.png)<p>
